@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/enderorman/Desktop/BBM 203/Assignment2/Leaderboard.cpp
+Leaderboard.h
+/Users/enderorman/Desktop/BBM 203/Assignment2/Leaderboard.h
+iostream
+/Users/enderorman/Desktop/BBM 203/Assignment2/iostream
+fstream
+/Users/enderorman/Desktop/BBM 203/Assignment2/fstream
+sstream
+/Users/enderorman/Desktop/BBM 203/Assignment2/sstream
+
+/Users/enderorman/Desktop/BBM 203/Assignment2/Leaderboard.h
+ctime
+-
+string
+-
+LeaderboardEntry.h
+/Users/enderorman/Desktop/BBM 203/Assignment2/LeaderboardEntry.h
+
+/Users/enderorman/Desktop/BBM 203/Assignment2/LeaderboardEntry.h
+ctime
+-
+string
+-
+
