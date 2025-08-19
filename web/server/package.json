@@ -1,0 +1,13 @@
+{
+  "name": "tetris-server",
+  "private": true,
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.17.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
